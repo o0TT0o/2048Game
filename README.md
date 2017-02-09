@@ -5,3 +5,5 @@ my project of 2048 , using C#
 
 
 **The Code Refers to: WPF, Class, Bubble Sort**
+
+**The exe file link: http://pan.baidu.com/s/1qYvuhuk **
